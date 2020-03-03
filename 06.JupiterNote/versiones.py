@@ -16,3 +16,6 @@ print('statsmodels: %s' % statsmodels.__version__)
 # scikit-learn
 import sklearn
 print('sklearn: %s' % sklearn.__version__)
+
+# imutils
+# pyimagesearch
