@@ -1,0 +1,5 @@
+NARX => profundizar este modelo
+sacar objetivos ambiguos
+sacar datos nacionales, poner de una que se trabajará con kaggle
+nro de entrada da una idea del minimo
+Dar revisióm al modelo, debe ser dinámico no estático
